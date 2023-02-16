@@ -9,9 +9,9 @@ Image in Postman testing:
 
 Configuration with MySQL deployed to AWS:
 
-```bash
+
 <img width="744" alt="image" src="https://user-images.githubusercontent.com/89829761/212752963-a292de7f-d7b8-481f-92f1-049a4e44510c.png">
-```
+
 
 Security config on AWS is set open with all IPv4 addresses
 
