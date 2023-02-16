@@ -43,4 +43,3 @@ Checking the running containers, use the command in backend directory:
 docker-compose ps
 ```
 
-![image](https://user-images.githubusercontent.com/89829761/219297420-06ea3052-2f05-4339-828a-fb8a6a472e0b.png)
