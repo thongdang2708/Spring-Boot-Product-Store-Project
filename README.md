@@ -1,5 +1,5 @@
 # Spring-Boot-Product-Store-Project
-Product Store with Authorization and Authentication with Spring Boot + Spring Data JPA + Spring Security + MySQL
+Product Store with Authorization and Authentication with Spring Boot + Spring Data JPA + Spring Security + MySQL + Docker
 
 Warning: Due to high charge costs for AWS services, database is no longer hosted on AWS RDS. I built on Docker instead.
 
