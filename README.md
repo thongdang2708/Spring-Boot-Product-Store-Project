@@ -28,6 +28,10 @@ To start, use "mvn clean spring-boot:run"
 or
 
 ```bash
+docker network create productstoreapp
+```
+
+```bash
 docker-compose up
 ```
 
